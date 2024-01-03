@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Camera Projection Painter",
+    "name": "Camera Projection Painter 4.0.3",
     "author": "Vlad Erium (ssh4), Ivan Perevala (ivpe)",
     "version": (4, 0, 3),
     "blender": (4, 0, 0),
