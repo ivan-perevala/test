@@ -9,3 +9,6 @@ bl_info = {
     "category": "Paint",
     "doc_url": 'https://github.com/BlenderHQ/camera_projection_painter',
 }
+
+def register():
+    pass
