@@ -1,8 +1,8 @@
 bl_info = {
-    "name": "Camera Projection Painter 4.0.3",
+    "name": "Camera Projection Painter 4.1.0",
     "author": "Vlad Erium (ssh4), Ivan Perevala (ivpe)",
-    "version": (4, 0, 3),
-    "blender": (4, 0, 0),
+    "version": (4, 1, 1),
+    "blender": (4, 1, 1),
     "description": "Photogrammetry textures refinement",
     "location": "Tool Settings > Camera Painter",
     "support": 'COMMUNITY',
